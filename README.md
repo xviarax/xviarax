@@ -6,7 +6,7 @@
 
 
 
-[![https://www.linkedin.com/in/viara-marinova-727963208/](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![https://www.linkedin.com/in/viara-marinova-727963208/](https://pngset.com/images/linked-linkedin-icon-iconza-circle-social-text-word-logo-symbol-transparent-png-2992609.png)
 [![https://www.linkedin.com/in/viara-marinova-727963208/](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
