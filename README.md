@@ -8,7 +8,7 @@
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-[<a href="https://icons8.com/icon/TpMqKvVFD9pP/linkedin-2"></a>)](https://www.linkedin.com/in/viara-marinova-727963208/)
+[![website](<a href="https://icons8.com/icon/TpMqKvVFD9pP/linkedin-2"></a>)](https://www.linkedin.com/in/viara-marinova-727963208/)
 
 
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/xviarax/)
