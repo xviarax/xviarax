@@ -2,7 +2,9 @@
 - 👀 I’m currently learning Java in SoftUni && Intellectual property and business at UNWE.
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet"></h3>
 <p align="left">
 <a href="https://instagram.com/xviarax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xviarax" height="30" width="40" /></a>
 <a href="https://fb.com/viara.clark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="viara.clark" height="30" width="40" /></a>
