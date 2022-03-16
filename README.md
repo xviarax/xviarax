@@ -2,7 +2,7 @@
 - 👀 I’m currently learning Java in SoftUni && Intellectual property and business at UNWE.
 
 
-<h3 align="left"><link rel="preconnect" href="https://fonts.googleapis.com">
+<h3 align="left">Connect with me:
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet"></h3>
 <p align="left">
