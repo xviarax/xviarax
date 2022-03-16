@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xviarax
-- 👀 I’m currently learning Java in SoftUni && Intellectual property and business at UNWE.
+- 👀 <i> I’m currently learning Java in SoftUni && Intellectual property and business at UNWE.
 
 
 <h3 align="left"><i>Connect with me:
