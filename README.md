@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xviarax
+- 👋 Hi, I’m @xviarax /Viara Marinova/ and I'm 21 years old.
 - 👀 <i> I’m currently learning Java in SoftUni && Intellectual property and business at UNWE.
 
 
