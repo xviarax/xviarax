@@ -15,5 +15,5 @@
 <a href="https://icons8.com/icon/set/js/group-color" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/fluency/48/000000/js.png" alt="JavaScript" width="40" height="40"/>
 </a>
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </p>
