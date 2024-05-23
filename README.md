@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @xviarax /Viara Marinova/ and I'm 22 years old.  
-- 👀 <i> I’m currently learning Java in SoftUni && Intellectual property and business at UNWE.
+- 👋 Hi, I’m @xviarax /Viara Marinova/ and I'm 2 years old.  
+- 👀 <i> I have completed the Java Web Developer and Manual Testing tracks at SoftUni. Currently, I am pursuing studies in "Energy Business" at UNWE while simultaneously working towards a Master's degree in "Business Innovations and Management".
 
 
 <h3 align="left"><i>Connect with me:
